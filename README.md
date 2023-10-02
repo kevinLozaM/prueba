@@ -1,3 +1,3 @@
 # prueba
 alert
-Hello world
+print "Hello world"
